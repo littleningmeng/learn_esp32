@@ -10,7 +10,7 @@ https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com
 
 *提示：可顺便一起配置下ESP8266，多个地址使用英文格式的都好间隔*  
 
-![](image-20220306160321837.png)
+![](./images/image-20220306160321837.png)
 
 
 
@@ -18,9 +18,9 @@ https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com
 
 在**工具**菜单中打开**开发板板管理器**对话框，搜索esp32并安装  
 
-![image-20220306161002450](image-20220306161002450.png)
+![](./images/image-20220306161002450.png)
 
-![image-20220306161039781](image-20220306161039781.png)
+![](./images/image-20220306161039781.png)
 
 
 
@@ -32,9 +32,9 @@ https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com
 
 选择开发板型号为ESP32 Arduino下的**DOIT ESP32 DEKIT V1**   
 
-![image-20220306161650462](image-20220306161650462.png)
+![](./images/image-20220306161650462.png)
 
-![image-20220306161528296](image-20220306161528296.png)
+![](./images/image-20220306161528296.png)
 
 
 
@@ -42,6 +42,6 @@ https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com
 
 在**文件**菜单**示例**中选择WiFI Scan示例程序，编译并上传到开发板。然后打开串口监视器，波特率设置为115200，观察开发板是否正常扫描WiFi网络。  
 
-![image-20220306161853867](image-20220306161853867.png)
+![](./images/image-20220306161853867.png)
 
-![image-20220306162055393](image-20220306162055393.png)
+![](./images/image-20220306162055393.png)
